@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Celil</h1>
 <h3 align="center">A passionate backend developer from Turkiye</h3>
 
-- 🔭 I’m currently working on a **Laravel**
+- 🔭 I’m currently working on a **Next.Js**
 
 - 💬 Ask me about **django, opencv, java**
 
